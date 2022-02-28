@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5eMtyQYRvmlVvkTixCt8ClixT8o+DSufp6ORtZZxeAQiXP1fmHGCughwkurG6xsyySasSc8Blj9K+lkNJ05oMA==",
+  "success": true,
+  "projectFilePath": "/Users/borismiljkovic/RiderProjects/WebSearch/Common/Common.csproj",
+  "expectedPackageFiles": [
+    "/Users/borismiljkovic/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/borismiljkovic/.nuget/packages/valueinjecter/3.2.0/valueinjecter.3.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

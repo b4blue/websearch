@@ -1,0 +1,12 @@
+/Users/borismiljkovic/RiderProjects/WebSearch/Common/bin/Debug/net5.0/Common.deps.json
+/Users/borismiljkovic/RiderProjects/WebSearch/Common/bin/Debug/net5.0/Common.dll
+/Users/borismiljkovic/RiderProjects/WebSearch/Common/bin/Debug/net5.0/ref/Common.dll
+/Users/borismiljkovic/RiderProjects/WebSearch/Common/bin/Debug/net5.0/Common.pdb
+/Users/borismiljkovic/RiderProjects/WebSearch/Common/obj/Debug/net5.0/Common.csprojAssemblyReference.cache
+/Users/borismiljkovic/RiderProjects/WebSearch/Common/obj/Debug/net5.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borismiljkovic/RiderProjects/WebSearch/Common/obj/Debug/net5.0/Common.AssemblyInfoInputs.cache
+/Users/borismiljkovic/RiderProjects/WebSearch/Common/obj/Debug/net5.0/Common.AssemblyInfo.cs
+/Users/borismiljkovic/RiderProjects/WebSearch/Common/obj/Debug/net5.0/Common.csproj.CoreCompileInputs.cache
+/Users/borismiljkovic/RiderProjects/WebSearch/Common/obj/Debug/net5.0/Common.dll
+/Users/borismiljkovic/RiderProjects/WebSearch/Common/obj/Debug/net5.0/ref/Common.dll
+/Users/borismiljkovic/RiderProjects/WebSearch/Common/obj/Debug/net5.0/Common.pdb

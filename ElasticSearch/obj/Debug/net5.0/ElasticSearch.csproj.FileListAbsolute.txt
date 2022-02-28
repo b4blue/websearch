@@ -1,0 +1,15 @@
+/Users/borismiljkovic/RiderProjects/WebSearch/ElasticSearch/bin/Debug/net5.0/ElasticSearch.deps.json
+/Users/borismiljkovic/RiderProjects/WebSearch/ElasticSearch/bin/Debug/net5.0/ElasticSearch.dll
+/Users/borismiljkovic/RiderProjects/WebSearch/ElasticSearch/bin/Debug/net5.0/ref/ElasticSearch.dll
+/Users/borismiljkovic/RiderProjects/WebSearch/ElasticSearch/bin/Debug/net5.0/ElasticSearch.pdb
+/Users/borismiljkovic/RiderProjects/WebSearch/ElasticSearch/bin/Debug/net5.0/Common.dll
+/Users/borismiljkovic/RiderProjects/WebSearch/ElasticSearch/bin/Debug/net5.0/Common.pdb
+/Users/borismiljkovic/RiderProjects/WebSearch/ElasticSearch/obj/Debug/net5.0/ElasticSearch.csprojAssemblyReference.cache
+/Users/borismiljkovic/RiderProjects/WebSearch/ElasticSearch/obj/Debug/net5.0/ElasticSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borismiljkovic/RiderProjects/WebSearch/ElasticSearch/obj/Debug/net5.0/ElasticSearch.AssemblyInfoInputs.cache
+/Users/borismiljkovic/RiderProjects/WebSearch/ElasticSearch/obj/Debug/net5.0/ElasticSearch.AssemblyInfo.cs
+/Users/borismiljkovic/RiderProjects/WebSearch/ElasticSearch/obj/Debug/net5.0/ElasticSearch.csproj.CoreCompileInputs.cache
+/Users/borismiljkovic/RiderProjects/WebSearch/ElasticSearch/obj/Debug/net5.0/ElasticSearch.csproj.CopyComplete
+/Users/borismiljkovic/RiderProjects/WebSearch/ElasticSearch/obj/Debug/net5.0/ElasticSearch.dll
+/Users/borismiljkovic/RiderProjects/WebSearch/ElasticSearch/obj/Debug/net5.0/ref/ElasticSearch.dll
+/Users/borismiljkovic/RiderProjects/WebSearch/ElasticSearch/obj/Debug/net5.0/ElasticSearch.pdb

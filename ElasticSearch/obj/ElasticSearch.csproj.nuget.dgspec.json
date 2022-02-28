@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/borismiljkovic/RiderProjects/WebSearch/ElasticSearch/ElasticSearch.csproj": {}
+  },
+  "projects": {
+    "/Users/borismiljkovic/RiderProjects/WebSearch/Common/Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/borismiljkovic/RiderProjects/WebSearch/Common/Common.csproj",
+        "projectName": "Common",
+        "projectPath": "/Users/borismiljkovic/RiderProjects/WebSearch/Common/Common.csproj",
+        "packagesPath": "/Users/borismiljkovic/.nuget/packages/",
+        "outputPath": "/Users/borismiljkovic/RiderProjects/WebSearch/Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/borismiljkovic/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "ValueInjecter": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/borismiljkovic/RiderProjects/WebSearch/ElasticSearch/ElasticSearch.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/borismiljkovic/RiderProjects/WebSearch/ElasticSearch/ElasticSearch.csproj",
+        "projectName": "ElasticSearch",
+        "projectPath": "/Users/borismiljkovic/RiderProjects/WebSearch/ElasticSearch/ElasticSearch.csproj",
+        "packagesPath": "/Users/borismiljkovic/.nuget/packages/",
+        "outputPath": "/Users/borismiljkovic/RiderProjects/WebSearch/ElasticSearch/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/borismiljkovic/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/borismiljkovic/RiderProjects/WebSearch/Common/Common.csproj": {
+                "projectPath": "/Users/borismiljkovic/RiderProjects/WebSearch/Common/Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Elasticsearch.Net.Aws": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
